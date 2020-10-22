@@ -1,0 +1,118 @@
+{
+  "contractName": "Election",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/C/Users/Trevor/Desktop/election/contracts/Election.sol\":\"Election\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/C/Users/Trevor/Desktop/election/contracts/Election.sol\":{\"keccak256\":\"0xb22e19e78d57a0e7ecc8858be416424b9cb52e7b5d3033f04715e03f3cd823e9\",\"urls\":[\"bzz-raw://719cc218fdd9d595fecb30c5ca52bd8c2ac571e7aa1e40f258153ffb01c2308e\",\"dweb:/ipfs/Qmc3GgXUxGWm1AvcwpcWGSPMyage3jSBC7C8bXnDkbiugy\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a72315820cd193333f8d12b728198bd6b77d2e8462b36f310de0958c5925855efabe5d3d764736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a72315820cd193333f8d12b728198bd6b77d2e8462b36f310de0958c5925855efabe5d3d764736f6c63430005100032",
+  "sourceMap": "36:24:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;36:24:0;;;;;;;",
+  "deployedSourceMap": "36:24:0:-;;;;;",
+  "source": "pragma solidity >=0.4.22 <0.8.0;\r\n\r\ncontract Election {\r\n\r\n}",
+  "sourcePath": "C:/Users/Trevor/Desktop/election/contracts/Election.sol",
+  "ast": {
+    "absolutePath": "/C/Users/Trevor/Desktop/election/contracts/Election.sol",
+    "exportedSymbols": {
+      "Election": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:32:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Election",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "36:24:0"
+      }
+    ],
+    "src": "0:60:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/Trevor/Desktop/election/contracts/Election.sol",
+    "exportedSymbols": {
+      "Election": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:32:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Election",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "36:24:0"
+      }
+    ],
+    "src": "0:60:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x710Bd06Aa89EbFfc8D881D40b2aE10F722Ad4D87",
+      "transactionHash": "0x99f3be264682e4e5bc23ca12f353d048c6c504469340c45f10ba6f21ab24bee7"
+    }
+  },
+  "schemaVersion": "3.2.5",
+  "updatedAt": "2020-10-22T21:53:27.701Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
